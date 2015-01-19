@@ -1,0 +1,11 @@
+23/04/2013 15:34:22 - New match 11348965 has started
+23/04/2013 15:37:14 - Roman killed Nick using AK47
+23/04/2013 15:37:24 - Roman killed Nick using AK47
+23/04/2013 15:37:34 - Roman killed Nick using AK47
+23/04/2013 15:37:44 - Roman killed Nick using M16
+23/04/2013 15:37:54 - Roman killed Nick using M16
+23/04/2013 15:38:04 - Logger killed Roman using AK47
+23/04/2013 15:38:34 - <WORLD> killed Nick by DROWN
+23/04/2013 15:39:04 - Logger killed Nick using AK47
+23/04/2013 15:46:33 - <WORLD> killed Nick by DROWN
+23/04/2013 15:49:22 - Match 11348965 has ended
